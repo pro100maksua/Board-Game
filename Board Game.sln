@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board Game", "Board Game\Board Game.csproj", "{0ACD7962-CCE8-4C91-903C-976CF065F7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Rules", "Game Rules\Game Rules.csproj", "{D4F18FA8-D243-49C6-BA97-5AEF8178E2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACD7962-CCE8-4C91-903C-976CF065F7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACD7962-CCE8-4C91-903C-976CF065F7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACD7962-CCE8-4C91-903C-976CF065F7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACD7962-CCE8-4C91-903C-976CF065F7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F18FA8-D243-49C6-BA97-5AEF8178E2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F18FA8-D243-49C6-BA97-5AEF8178E2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F18FA8-D243-49C6-BA97-5AEF8178E2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F18FA8-D243-49C6-BA97-5AEF8178E2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2175B9C-EA37-4E76-8A4E-AE9E75E304CF}
+	EndGlobalSection
+EndGlobal
